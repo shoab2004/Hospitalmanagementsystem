@@ -4,8 +4,8 @@
 
 Secure login with user ID and password
 
-user ID: hospital ,
-password : 123456789
+User ID: hospital ,
+Password : 123456789
 
 Role-based access control (Admin, Doctor, Nurse, Receptionist)
 
